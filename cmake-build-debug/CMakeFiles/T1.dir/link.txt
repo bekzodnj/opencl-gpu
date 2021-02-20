@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/T1.dir/main.cpp.o  -o T1 -lOpenCL 
